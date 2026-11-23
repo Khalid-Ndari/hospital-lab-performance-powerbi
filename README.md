@@ -2,7 +2,7 @@
 
 **End-to-end Power BI solution analyzing 10,000 anonymized laboratory records (2023–2024): workload, turnaround time (TAT), quality control, repeat work, and reagent cost.**
 
-![Executive Overview](01-executive-overview.png)
+![Executive Overview](1.png)
 
 ---
 
@@ -59,7 +59,7 @@ Laboratory activity **increased in 2024**, and both **TAT and QC performance imp
 
 ## 📊 Dashboard 1: Executive Overview
 
-![Executive Overview](01-executive-overview.png)
+![Executive Overview](1.png)
 
 - The laboratory completed **10,000 analyses for 6,731 patients**.
 - Activity was higher in 2024 than in 2023, and **TAT compliance also improved**.
@@ -69,7 +69,7 @@ Laboratory activity **increased in 2024**, and both **TAT and QC performance imp
 
 ## ⏱️ Dashboard 2: Turnaround Time
 
-![Turnaround Time](02-turnaround-time.png)
+![Turnaround Time](2.png)
 
 - Average TAT was **311 min**, but the median was **86 min**: a small number of very long analyses inflate the average.
 - **3,368 analyses (33.68%)** exceeded their target.
@@ -78,7 +78,7 @@ Laboratory activity **increased in 2024**, and both **TAT and QC performance imp
 
 ## 💰 Dashboard 3: Quality & Cost
 
-![Quality and Cost](03-quality-cost.png)
+![Quality and Cost](3.png)
 
 - The QC pass rate was **97.14%**, with generally stronger monthly results in 2024.
 - The lab recorded **446 reruns and 288 recollections**. Reruns consume reagent, analyzer, and staff time; recollections also require a new sample from the patient.
